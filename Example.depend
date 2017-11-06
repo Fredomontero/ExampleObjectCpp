@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1509945380 source:c:\users\rich\documents\tutotialcpp\example\empleado.cpp
+	"Empleado.h"
+
+1509945346 c:\users\rich\documents\tutotialcpp\example\empleado.h
+	<iostream>
+
+1509945416 source:c:\users\rich\documents\tutotialcpp\example\main.cpp
+	<iostream>
+	"Empleado.h"
+
+1509946638 source:c:\users\rich\documents\tutotialcpp\example\persona.cpp
+	"Persona.h"
+
+1509947328 c:\users\rich\documents\tutotialcpp\example\persona.h
+	<iostream>
+
